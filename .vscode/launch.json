@@ -1,0 +1,428 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "balance-sheet-viewer",
+            "cwd": "androidProjects\\balance-sheet-viewer",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "balance-sheet-viewer (profile mode)",
+            "cwd": "androidProjects\\balance-sheet-viewer",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "balance-sheet-viewer (release mode)",
+            "cwd": "androidProjects\\balance-sheet-viewer",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "email_password_flutter_firebase",
+            "cwd": "androidProjects\\email_password_flutter_firebase",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "email_password_flutter_firebase (profile mode)",
+            "cwd": "androidProjects\\email_password_flutter_firebase",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "email_password_flutter_firebase (release mode)",
+            "cwd": "androidProjects\\email_password_flutter_firebase",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flipr_employee_managment",
+            "cwd": "androidProjects\\flipr_employee_managment",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flipr_employee_managment (profile mode)",
+            "cwd": "androidProjects\\flipr_employee_managment",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flipr_employee_managment (release mode)",
+            "cwd": "androidProjects\\flipr_employee_managment",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter-issue-91229",
+            "cwd": "androidProjects\\flutter-issue-91229",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter-issue-91229 (profile mode)",
+            "cwd": "androidProjects\\flutter-issue-91229",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter-issue-91229 (release mode)",
+            "cwd": "androidProjects\\flutter-issue-91229",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter-wonderous-app",
+            "cwd": "androidProjects\\flutter-wonderous-app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter-wonderous-app (profile mode)",
+            "cwd": "androidProjects\\flutter-wonderous-app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter-wonderous-app (release mode)",
+            "cwd": "androidProjects\\flutter-wonderous-app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_camera_demo",
+            "cwd": "androidProjects\\flutter_camera_demo",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_camera_demo (profile mode)",
+            "cwd": "androidProjects\\flutter_camera_demo",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_camera_demo (release mode)",
+            "cwd": "androidProjects\\flutter_camera_demo",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "mobileapp-main",
+            "cwd": "androidProjects\\mobileapp-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mobileapp-main (profile mode)",
+            "cwd": "androidProjects\\mobileapp-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "mobileapp-main (release mode)",
+            "cwd": "androidProjects\\mobileapp-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "quick_file",
+            "cwd": "androidProjects\\quick_file",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "quick_file (profile mode)",
+            "cwd": "androidProjects\\quick_file",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "quick_file (release mode)",
+            "cwd": "androidProjects\\quick_file",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "SimplyPrint-App-main",
+            "cwd": "androidProjects\\SimplyPrint-App-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "SimplyPrint-App-main (profile mode)",
+            "cwd": "androidProjects\\SimplyPrint-App-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "SimplyPrint-App-main (release mode)",
+            "cwd": "androidProjects\\SimplyPrint-App-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "veridox",
+            "cwd": "androidProjects\\veridox",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "veridox (profile mode)",
+            "cwd": "androidProjects\\veridox",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "veridox (release mode)",
+            "cwd": "androidProjects\\veridox",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "$R4430QZ",
+            "cwd": "$Recycle.Bin\\S-1-5-21-2462967012-3547653081-573841004-1001\\$R4430QZ",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "$R4430QZ (profile mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-2462967012-3547653081-573841004-1001\\$R4430QZ",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "$R4430QZ (release mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-2462967012-3547653081-573841004-1001\\$R4430QZ",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "$RACSHON",
+            "cwd": "$Recycle.Bin\\S-1-5-21-2462967012-3547653081-573841004-1001\\$RACSHON",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "$RACSHON (profile mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-2462967012-3547653081-573841004-1001\\$RACSHON",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "$RACSHON (release mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-2462967012-3547653081-573841004-1001\\$RACSHON",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "$RY5YNV2",
+            "cwd": "$Recycle.Bin\\S-1-5-21-2462967012-3547653081-573841004-1001\\$RY5YNV2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "$RY5YNV2 (profile mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-2462967012-3547653081-573841004-1001\\$RY5YNV2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "$RY5YNV2 (release mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-2462967012-3547653081-573841004-1001\\$RY5YNV2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "$RYR23JI",
+            "cwd": "$Recycle.Bin\\S-1-5-21-2462967012-3547653081-573841004-1001\\$RYR23JI",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "$RYR23JI (profile mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-2462967012-3547653081-573841004-1001\\$RYR23JI",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "$RYR23JI (release mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-2462967012-3547653081-573841004-1001\\$RYR23JI",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "evoting_app",
+            "cwd": "e-voting\\blockchain-evoting-dapp\\evoting_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "evoting_app (profile mode)",
+            "cwd": "e-voting\\blockchain-evoting-dapp\\evoting_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "evoting_app (release mode)",
+            "cwd": "e-voting\\blockchain-evoting-dapp\\evoting_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "bmi_calculator",
+            "cwd": "Users\\LENOVO\\AndroidStudioProjects\\bmi_calculator",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "bmi_calculator (profile mode)",
+            "cwd": "Users\\LENOVO\\AndroidStudioProjects\\bmi_calculator",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "bmi_calculator (release mode)",
+            "cwd": "Users\\LENOVO\\AndroidStudioProjects\\bmi_calculator",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "firstflutterProject",
+            "cwd": "Users\\LENOVO\\AndroidStudioProjects\\firstflutterProject",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "firstflutterProject (profile mode)",
+            "cwd": "Users\\LENOVO\\AndroidStudioProjects\\firstflutterProject",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "firstflutterProject (release mode)",
+            "cwd": "Users\\LENOVO\\AndroidStudioProjects\\firstflutterProject",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flash_chat",
+            "cwd": "Users\\LENOVO\\AndroidStudioProjects\\flash_chat",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flash_chat (profile mode)",
+            "cwd": "Users\\LENOVO\\AndroidStudioProjects\\flash_chat",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flash_chat (release mode)",
+            "cwd": "Users\\LENOVO\\AndroidStudioProjects\\flash_chat",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "untitled",
+            "cwd": "Users\\LENOVO\\AndroidStudioProjects\\untitled",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "untitled (profile mode)",
+            "cwd": "Users\\LENOVO\\AndroidStudioProjects\\untitled",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "untitled (release mode)",
+            "cwd": "Users\\LENOVO\\AndroidStudioProjects\\untitled",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "real-apps-12-modal-sheet",
+            "cwd": "Users\\LENOVO\\Downloads\\real-apps-12-modal-sheet",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "real-apps-12-modal-sheet (profile mode)",
+            "cwd": "Users\\LENOVO\\Downloads\\real-apps-12-modal-sheet",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "real-apps-12-modal-sheet (release mode)",
+            "cwd": "Users\\LENOVO\\Downloads\\real-apps-12-modal-sheet",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Tasvat",
+            "cwd": "Users\\LENOVO\\flutter_projects\\Tasvat",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Tasvat (profile mode)",
+            "cwd": "Users\\LENOVO\\flutter_projects\\Tasvat",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Tasvat (release mode)",
+            "cwd": "Users\\LENOVO\\flutter_projects\\Tasvat",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

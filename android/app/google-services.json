@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622741993787",
+    "project_id": "zenipay",
+    "storage_bucket": "zenipay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622741993787:android:38f901d972071645305f1e",
+        "android_client_info": {
+          "package_name": "zenifin.zenipay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622741993787-c7k2o7j2v2aqg71ktfvjm9bob0mt1efq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhSkBozZjIT-6dEopD0pm913A2ON0Ixqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622741993787-c7k2o7j2v2aqg71ktfvjm9bob0mt1efq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
